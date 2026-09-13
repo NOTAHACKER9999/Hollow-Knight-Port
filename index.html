@@ -249,7 +249,7 @@
         (async () => {
             const [dataUrl, wasmurl] = await Promise.all([
                 mergeFiles(getParts("Build/Glitches HK.data", 1, 44), "Glitches HK.data"),
-                mergeFiles(getParts("Build/Glitches HK.wasm", 1, 4), "Glitches HK.wasm"),
+                mergeFiles(getParts("Build/Glitches HK.wasm", 1, 3), "Glitches HK.wasm"),
             ]);
             var buildUrl = "Build";
             var loaderUrl = buildUrl + "/Glitches HK.loader.js";

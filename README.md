@@ -1,1 +1,1 @@
-This Repo has been taken down and will have a differnt repo soon
+this project has been moved to https://github.com/Stratus-Games/Hollow-Knight-Webport/tree/main
